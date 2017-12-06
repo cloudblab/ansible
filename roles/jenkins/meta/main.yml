@@ -54,6 +54,7 @@ galaxy_info:
   #  - 23
   #  - 24
   #  - 25
+  #  - 26
   #- name: DellOS
   #  versions:
   #  - all
@@ -129,6 +130,7 @@ galaxy_info:
   #- name: Ubuntu
   #  versions:
   #  - all
+  #  - artful
   #  - lucid
   #  - maverick
   #  - natty

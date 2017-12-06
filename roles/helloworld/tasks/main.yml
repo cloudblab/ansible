@@ -1,5 +1,6 @@
 ---
 # tasks file for helloworld
+
 - name: Copying the application file
   copy:
     src: helloworld.js
@@ -21,4 +22,3 @@
   service:
     name: helloworld
     state: started
-
